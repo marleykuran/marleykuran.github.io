@@ -1,0 +1,57 @@
+body {
+  font-size: 1.2rem;
+}
+
+h1 {
+  font-size: 2rem;
+  color: blueviolet;
+  font-weight: 900;
+  text-transform: uppercase;
+  text-align: center;
+  padding-bottom: 10px;
+  font-family: "Truculenta", sans-serif;
+  font-weight: <400>;
+  font-style: normal;
+}
+
+h2 {
+  font-size: 1.7rem;
+  color: aquamarine;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+/* * {
+  color: hotpink;
+}
+
+h1 {
+  color: brown;
+  border: 2px solid crimson;
+}
+h1 {
+  color: blue;
+}
+
+li {
+  color: yellowgreen;
+}
+.my-colors {
+  color: rgb(221, 166, 39);
+}
+
+#instructor {
+  color: blueviolet;
+}
+
+[data-email="email"] {
+  color: blue;
+}
+/* this is a cs comment */
+
+/*
+this is the reasoning behind the colors:
+I choose the purple heading because......
+
+
+*/
