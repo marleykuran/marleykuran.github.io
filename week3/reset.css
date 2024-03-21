@@ -36,7 +36,6 @@ h6 {
   text-wrap: balance;
 }
 p {
-  max-width: 75ch;
   text-wrap: pretty; /* Prevents orphans on lines */
 }
 @media (prefers-reduced-motion: no-preference) {
